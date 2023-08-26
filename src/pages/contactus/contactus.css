@@ -1,0 +1,140 @@
+.mainBoxContact{
+    border-radius: 5px;
+    margin: 5px;
+    background: #2d3838;
+    height: 100vh;
+}
+.heading{
+    color: white;
+    font-weight: 600;
+    padding: 10px;
+    border: 1px solid;
+    text-align: left;
+}
+
+.createcontactbutton{
+    border-color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.contactBox{
+    padding: 20px;
+    text-align: left;
+   
+
+}
+.backbutton{
+    text-align: right;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.contactfieldbox{
+    align-items: center;
+    /* justify-content: center; */
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.inputbox{
+    padding: 5px;
+    width: 100%;
+}
+
+.contactFormBox{
+    margin: 10px auto;
+    width: 50%;
+    border-radius: 5px;
+    background: white;
+    border-radius: 5px;
+}
+
+label{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.radiobutton{
+    flex-direction: column;
+    display: flex;
+    gap: 10px;
+    width: 70%;
+}
+.firstnamebox{
+    width: 30%;
+    text-align: right;
+}
+.inputnamebox{
+    width: 70%;
+    text-align: right;
+}
+
+.alldatabox{
+    padding: 20px;
+    
+    /* flex-wrap: wrap;
+    gap: 33px;
+    display: flex; */
+    /* width: 100%; */
+
+    /* justify-content: center; */
+}
+
+
+.allDatacontent{
+    border-radius: 5px;
+    padding: 10px; 
+    /* margin-left: 5px; */
+    /* width: 25%; */
+}
+.alldataitem{
+    background: #5f9ea0;
+    height: 200px;
+    border-radius: 5px;
+    padding: 20px;
+}
+.showfield{
+    align-items: flex-start;
+    /* align-items: center; */
+    justify-content: space-between;
+    display: flex;
+    gap: 10px;
+}
+.actionbutton{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 25px;
+    align-items: center;
+}
+.editbutton{
+    width: 60%;
+    margin-bottom: 5px;
+}
+.firstnameshow{
+    color: white;
+    font-weight: 400;
+}
+.lastnameshow{
+
+    color: white;
+    font-weight: 600;
+}
+
+.linegaphbox{
+    padding:10px;
+}
+
+.linegraboxcontent{
+    height:500px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
