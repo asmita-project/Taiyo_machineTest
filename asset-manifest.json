@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Taiyo_machineTest/static/css/main.02d68d66.css",
+    "main.js": "/Taiyo_machineTest/static/js/main.90759285.js",
+    "static/js/787.0f9ffe84.chunk.js": "/Taiyo_machineTest/static/js/787.0f9ffe84.chunk.js",
+    "index.html": "/Taiyo_machineTest/index.html",
+    "main.02d68d66.css.map": "/Taiyo_machineTest/static/css/main.02d68d66.css.map",
+    "main.90759285.js.map": "/Taiyo_machineTest/static/js/main.90759285.js.map",
+    "787.0f9ffe84.chunk.js.map": "/Taiyo_machineTest/static/js/787.0f9ffe84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02d68d66.css",
+    "static/js/main.90759285.js"
+  ]
+}
